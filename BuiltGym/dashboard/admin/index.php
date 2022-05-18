@@ -80,7 +80,7 @@ page_protect();
 					
 				</div>
 
-			<h2>Titan Gym</h2>
+			<h2>Built Gym</h2>
 
 			<hr>
 
